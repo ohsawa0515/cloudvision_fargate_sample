@@ -1,0 +1,1 @@
+# cloudvision_fargate_sample
